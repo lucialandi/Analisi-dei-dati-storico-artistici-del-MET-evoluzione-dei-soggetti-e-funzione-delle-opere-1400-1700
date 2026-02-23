@@ -1,7 +1,7 @@
 Nome del progetto
 Visualizzare la Controriforma: analisi dei soggetti e delle funzioni artistiche prima e dopo il 1563
 
-DOI
+DOI 10.5281/zenodo.18741583
 
 DOI del record su Zenodo
 
@@ -49,6 +49,6 @@ Responsabili
 Di Pane, Ramona - ORCID 0009-0008-8880-2572 
 Landi, Lucia - ORCID 0009-0001-8380-3356 
 
-Licenza
+Licenza CC0
 
 Nome e link alla licenza
