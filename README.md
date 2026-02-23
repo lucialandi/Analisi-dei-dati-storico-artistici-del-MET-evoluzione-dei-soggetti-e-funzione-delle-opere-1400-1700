@@ -3,8 +3,6 @@ Visualizzare la Controriforma: analisi dei soggetti e delle funzioni artistiche 
 
 DOI 10.5281/zenodo.18741583
 
-DOI del record su Zenodo
-
 Descrizione
 Questo progetto analizza l’evoluzione dei soggetti e della funzione delle opere d’arte europee tra il 1400 e il 1700, con particolare attenzione al periodo successivo al Concilio di Trento (1563).
 L’analisi è stata realizzata utilizzando metadati delle opere del MET e implementata in un notebook Python su Google Colab.
@@ -51,4 +49,4 @@ Landi, Lucia - ORCID 0009-0001-8380-3356
 
 Licenza CC0
 
-Nome e link alla licenza
+Licenza CC0 https://raw.githubusercontent.com/lucialandi/Analisi-dei-dati-storico-artistici-del-MET-evoluzione-dei-soggetti-e-funzione-delle-opere-1400-1700/refs/heads/main/LICENSE
